@@ -1,0 +1,312 @@
+Deleted tutors removed at: 7/15/2024 8:20:36 PM +07:00
+Tutors: [
+  {
+    "Id": 1,
+    "TutorId": "403794fa-8ae5-4612-94f3-d2c0eb19325d",
+    "Fullname": "Nguyen Van A",
+    "Email": "nguyenvana@example.com",
+    "Phone": "\u002B841234567890",
+    "Address": "123 Le Loi, District 1, Ho Chi Minh City",
+    "Dob": "1985-05-01T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545036+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545119+07:00"
+  },
+  {
+    "Id": 3,
+    "TutorId": "3dd3ccad-3db6-46b4-a209-a4100a03d570",
+    "Fullname": "Le Van C",
+    "Email": "levanc@example.com",
+    "Phone": "\u002B841234567892",
+    "Address": "789 Hai Ba Trung, District 1, Ho Chi Minh City",
+    "Dob": "1980-08-30T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545295+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545295+07:00"
+  },
+  {
+    "Id": 5,
+    "TutorId": "4aaa6410-2609-4fa7-84b7-d682a87fcf8b",
+    "Fullname": "Hoang Van E",
+    "Email": "hoangvane@example.com",
+    "Phone": "\u002B841234567894",
+    "Address": "654 Pham Ngu Lao, District 1, Ho Chi Minh City",
+    "Dob": "1988-03-22T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545302+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545303+07:00"
+  }
+]
+Deleted tutors removed at: 7/15/2024 8:20:41 PM +07:00
+Tutors: [
+  {
+    "Id": 5,
+    "TutorId": "4aaa6410-2609-4fa7-84b7-d682a87fcf8b",
+    "Fullname": "Hoang Van E",
+    "Email": "hoangvane@example.com",
+    "Phone": "\u002B841234567894",
+    "Address": "654 Pham Ngu Lao, District 1, Ho Chi Minh City",
+    "Dob": "1988-03-22T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545302+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545303+07:00"
+  },
+  {
+    "Id": 3,
+    "TutorId": "3dd3ccad-3db6-46b4-a209-a4100a03d570",
+    "Fullname": "Le Van C",
+    "Email": "levanc@example.com",
+    "Phone": "\u002B841234567892",
+    "Address": "789 Hai Ba Trung, District 1, Ho Chi Minh City",
+    "Dob": "1980-08-30T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545295+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545295+07:00"
+  },
+  {
+    "Id": 1,
+    "TutorId": "403794fa-8ae5-4612-94f3-d2c0eb19325d",
+    "Fullname": "Nguyen Van A",
+    "Email": "nguyenvana@example.com",
+    "Phone": "\u002B841234567890",
+    "Address": "123 Le Loi, District 1, Ho Chi Minh City",
+    "Dob": "1985-05-01T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545036+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545119+07:00"
+  }
+]
+Deleted tutors removed at: 7/15/2024 8:20:46 PM +07:00
+Tutors: [
+  {
+    "Id": 1,
+    "TutorId": "403794fa-8ae5-4612-94f3-d2c0eb19325d",
+    "Fullname": "Nguyen Van A",
+    "Email": "nguyenvana@example.com",
+    "Phone": "\u002B841234567890",
+    "Address": "123 Le Loi, District 1, Ho Chi Minh City",
+    "Dob": "1985-05-01T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545036+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545119+07:00"
+  },
+  {
+    "Id": 3,
+    "TutorId": "3dd3ccad-3db6-46b4-a209-a4100a03d570",
+    "Fullname": "Le Van C",
+    "Email": "levanc@example.com",
+    "Phone": "\u002B841234567892",
+    "Address": "789 Hai Ba Trung, District 1, Ho Chi Minh City",
+    "Dob": "1980-08-30T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545295+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545295+07:00"
+  },
+  {
+    "Id": 5,
+    "TutorId": "4aaa6410-2609-4fa7-84b7-d682a87fcf8b",
+    "Fullname": "Hoang Van E",
+    "Email": "hoangvane@example.com",
+    "Phone": "\u002B841234567894",
+    "Address": "654 Pham Ngu Lao, District 1, Ho Chi Minh City",
+    "Dob": "1988-03-22T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545302+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545303+07:00"
+  }
+]
+Deleted tutors removed at: 7/15/2024 8:20:51 PM +07:00
+Tutors: [
+  {
+    "Id": 5,
+    "TutorId": "4aaa6410-2609-4fa7-84b7-d682a87fcf8b",
+    "Fullname": "Hoang Van E",
+    "Email": "hoangvane@example.com",
+    "Phone": "\u002B841234567894",
+    "Address": "654 Pham Ngu Lao, District 1, Ho Chi Minh City",
+    "Dob": "1988-03-22T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545302+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545303+07:00"
+  },
+  {
+    "Id": 3,
+    "TutorId": "3dd3ccad-3db6-46b4-a209-a4100a03d570",
+    "Fullname": "Le Van C",
+    "Email": "levanc@example.com",
+    "Phone": "\u002B841234567892",
+    "Address": "789 Hai Ba Trung, District 1, Ho Chi Minh City",
+    "Dob": "1980-08-30T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545295+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545295+07:00"
+  },
+  {
+    "Id": 1,
+    "TutorId": "403794fa-8ae5-4612-94f3-d2c0eb19325d",
+    "Fullname": "Nguyen Van A",
+    "Email": "nguyenvana@example.com",
+    "Phone": "\u002B841234567890",
+    "Address": "123 Le Loi, District 1, Ho Chi Minh City",
+    "Dob": "1985-05-01T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545036+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545119+07:00"
+  }
+]
+Deleted tutors removed at: 7/15/2024 8:20:56 PM +07:00
+Tutors: [
+  {
+    "Id": 1,
+    "TutorId": "403794fa-8ae5-4612-94f3-d2c0eb19325d",
+    "Fullname": "Nguyen Van A",
+    "Email": "nguyenvana@example.com",
+    "Phone": "\u002B841234567890",
+    "Address": "123 Le Loi, District 1, Ho Chi Minh City",
+    "Dob": "1985-05-01T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545036+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545119+07:00"
+  },
+  {
+    "Id": 3,
+    "TutorId": "3dd3ccad-3db6-46b4-a209-a4100a03d570",
+    "Fullname": "Le Van C",
+    "Email": "levanc@example.com",
+    "Phone": "\u002B841234567892",
+    "Address": "789 Hai Ba Trung, District 1, Ho Chi Minh City",
+    "Dob": "1980-08-30T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545295+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545295+07:00"
+  },
+  {
+    "Id": 5,
+    "TutorId": "4aaa6410-2609-4fa7-84b7-d682a87fcf8b",
+    "Fullname": "Hoang Van E",
+    "Email": "hoangvane@example.com",
+    "Phone": "\u002B841234567894",
+    "Address": "654 Pham Ngu Lao, District 1, Ho Chi Minh City",
+    "Dob": "1988-03-22T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545302+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545303+07:00"
+  }
+]
+Deleted tutors removed at: 7/15/2024 8:21:02 PM +07:00
+Tutors: [
+  {
+    "Id": 5,
+    "TutorId": "4aaa6410-2609-4fa7-84b7-d682a87fcf8b",
+    "Fullname": "Hoang Van E",
+    "Email": "hoangvane@example.com",
+    "Phone": "\u002B841234567894",
+    "Address": "654 Pham Ngu Lao, District 1, Ho Chi Minh City",
+    "Dob": "1988-03-22T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545302+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545303+07:00"
+  },
+  {
+    "Id": 3,
+    "TutorId": "3dd3ccad-3db6-46b4-a209-a4100a03d570",
+    "Fullname": "Le Van C",
+    "Email": "levanc@example.com",
+    "Phone": "\u002B841234567892",
+    "Address": "789 Hai Ba Trung, District 1, Ho Chi Minh City",
+    "Dob": "1980-08-30T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545295+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545295+07:00"
+  },
+  {
+    "Id": 1,
+    "TutorId": "403794fa-8ae5-4612-94f3-d2c0eb19325d",
+    "Fullname": "Nguyen Van A",
+    "Email": "nguyenvana@example.com",
+    "Phone": "\u002B841234567890",
+    "Address": "123 Le Loi, District 1, Ho Chi Minh City",
+    "Dob": "1985-05-01T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545036+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545119+07:00"
+  }
+]
+Deleted tutors removed at: 7/15/2024 8:21:07 PM +07:00
+Tutors: [
+  {
+    "Id": 1,
+    "TutorId": "403794fa-8ae5-4612-94f3-d2c0eb19325d",
+    "Fullname": "Nguyen Van A",
+    "Email": "nguyenvana@example.com",
+    "Phone": "\u002B841234567890",
+    "Address": "123 Le Loi, District 1, Ho Chi Minh City",
+    "Dob": "1985-05-01T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545036+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545119+07:00"
+  },
+  {
+    "Id": 3,
+    "TutorId": "3dd3ccad-3db6-46b4-a209-a4100a03d570",
+    "Fullname": "Le Van C",
+    "Email": "levanc@example.com",
+    "Phone": "\u002B841234567892",
+    "Address": "789 Hai Ba Trung, District 1, Ho Chi Minh City",
+    "Dob": "1980-08-30T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545295+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545295+07:00"
+  },
+  {
+    "Id": 5,
+    "TutorId": "4aaa6410-2609-4fa7-84b7-d682a87fcf8b",
+    "Fullname": "Hoang Van E",
+    "Email": "hoangvane@example.com",
+    "Phone": "\u002B841234567894",
+    "Address": "654 Pham Ngu Lao, District 1, Ho Chi Minh City",
+    "Dob": "1988-03-22T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545302+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545303+07:00"
+  }
+]
+Deleted tutors removed at: 7/15/2024 8:21:12 PM +07:00
+Tutors: [
+  {
+    "Id": 5,
+    "TutorId": "4aaa6410-2609-4fa7-84b7-d682a87fcf8b",
+    "Fullname": "Hoang Van E",
+    "Email": "hoangvane@example.com",
+    "Phone": "\u002B841234567894",
+    "Address": "654 Pham Ngu Lao, District 1, Ho Chi Minh City",
+    "Dob": "1988-03-22T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545302+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545303+07:00"
+  },
+  {
+    "Id": 3,
+    "TutorId": "3dd3ccad-3db6-46b4-a209-a4100a03d570",
+    "Fullname": "Le Van C",
+    "Email": "levanc@example.com",
+    "Phone": "\u002B841234567892",
+    "Address": "789 Hai Ba Trung, District 1, Ho Chi Minh City",
+    "Dob": "1980-08-30T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545295+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545295+07:00"
+  },
+  {
+    "Id": 1,
+    "TutorId": "403794fa-8ae5-4612-94f3-d2c0eb19325d",
+    "Fullname": "Nguyen Van A",
+    "Email": "nguyenvana@example.com",
+    "Phone": "\u002B841234567890",
+    "Address": "123 Le Loi, District 1, Ho Chi Minh City",
+    "Dob": "1985-05-01T00:00:00",
+    "IsDeleted": false,
+    "CreatedAt": "2024-07-15T20:19:51.4545036+07:00",
+    "UpdatedAt": "2024-07-15T20:19:51.4545119+07:00"
+  }
+]
